@@ -207,7 +207,7 @@
                         {
                             "element_id": "header",
                             "styles": {
-                                "width": "100%"
+                                "width": "90%"
                             }
                         }
                     ],
@@ -1516,7 +1516,7 @@
                                         "value": {
                                             "code": null,
                                             "comment": "",
-                                            "message": "Active NeedIts by Request Type"
+                                            "message": "NeedIt records needed this month"
                                         }
                                     },
                                     "headingLevel": {
@@ -2223,9 +2223,6 @@
     
 ]</props>
         <required_translations>[ {
-  "message" : "Active NeedIts by Request Type",
-  "comment" : ""
-}, {
   "message" : "Active NeedIts by Request type",
   "comment" : ""
 }, {
@@ -2236,6 +2233,9 @@
   "comment" : ""
 }, {
   "message" : "NeedIt Logo",
+  "comment" : ""
+}, {
+  "message" : "NeedIt records needed this month",
   "comment" : ""
 }, {
   "message" : "No data available.",
@@ -2256,14 +2256,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-06 16:11:28</sys_created_on>
         <sys_id>4443bf7c93c202102ca8b6597bba10da</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>49</sys_mod_count>
         <sys_name>NeedIt Admin home</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_ux_macroponent_4443bf7c93c202102ca8b6597bba10da</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-07 17:20:00</sys_updated_on>
+        <sys_updated_on>2024-05-12 18:44:43</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=4443bf7c93c202102ca8b6597bba10da"/>
 </record_update>
